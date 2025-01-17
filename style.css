@@ -6,6 +6,8 @@
 	--beach-bg: #e7dfcf;
 	--glacier-bg: #b6d6c8;
 	--coral-bg: #d6b6c4;
+	--charger-bg: #dfc6d1;
+	--battery-bg: #b6c4d6;
 	--arrow-fill: #333231;
   --body-font: "Montserrat", sans-serif;
   --italic-font: "EB Garamond", serif;
@@ -400,10 +402,10 @@ body {
 
 [data-sld="5"] .container,
 [data-sld="5"] .header {
-  background-color: var(--savanna-bg);
+  background-color: var(--charger-bg);
 }
 
 [data-sld="6"] .container,
 [data-sld="6"] .header {
-  background-color: var(--glacier-bg);
+  background-color: var(--battery-bg);
 }
