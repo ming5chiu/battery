@@ -397,15 +397,10 @@ body {
 
 [data-sld="4"] .container,
 [data-sld="4"] .header {
-  background-color: var(--beach-bg);
+  background-color: var(--glacier-bg);
 }
 
 [data-sld="5"] .container,
 [data-sld="5"] .header {
-  background-color: var(--charger-bg);
-}
-
-[data-sld="6"] .container,
-[data-sld="6"] .header {
-  background-color: var(--battery-bg);
+  background-color: var(--savanna-bg);
 }
